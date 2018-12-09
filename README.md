@@ -12,7 +12,7 @@ For example, researchers were able to link public IMDB reviews with anonmised
 Netflix viewings and thereby learn other viewing history that the viewers would
 prefer to have left private:
 
-https://www.cs.cornell.edu/~shmat/shmat\_oak08netflix.pdf
+https://www.cs.cornell.edu/~shmat/shmat_oak08netflix.pdf
 
 Aside from revealing viewing history of users without their consent, this led
 to lawsuits against Netflix, which Netflix settled outside of court.
