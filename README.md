@@ -1,5 +1,5 @@
-K-anonymisation on streaming data
-==================================
+# fads-k-anonymiser
+## Implementation of "Fast clustering-based anonymization approaches with time constraints for data streams".
 
 Warning
 -------
